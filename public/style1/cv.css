@@ -233,6 +233,7 @@ dt {
 
     dd {
         background-color: #fff;
+        color: red;
     }
 
     .contact-skype .contact-value {
